@@ -1,0 +1,31 @@
+body{
+    margin-top: 100px;
+}
+.xxx{
+    position: relative;
+    top: 70px;
+    background: linear-gradient(90deg, #50c7fc,lightskyblue);
+    text-align: center;
+    height: 500px;
+    width: 700px;
+}
+.xxx1{
+    position: relative;
+    top: 70px;
+}
+.xxx2{
+    background: linear-gradient(90deg,#50c7fc,lightskyblue);
+    border: 1px solid white;
+    position: relative;
+    top: 50px;
+}
+a{
+    position: relative;
+    left: 170px;
+}
+.xxx4{
+    position: relative;
+    top: 45px;
+    right: 70px;
+    border-radius: 0;
+}
